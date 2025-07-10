@@ -36,5 +36,5 @@ function startTimer() {
 }
 
 btn.addEventListener("click", function() {
-    alert("Hurray, here is your code!");
+    window.location.href = "openapp.html";
 });
